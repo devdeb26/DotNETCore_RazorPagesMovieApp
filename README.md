@@ -14,4 +14,4 @@ In the project:
  - Entity Framework using Sqlite
  - Added Search Functionality
  - Added Dropdown Category Filter
- - 
+ - Added Validation
