@@ -5,3 +5,11 @@
 **You can change the sqlite to sqlserver when using sqlserver.**
 
 - dotnet aspnet-codegenerator razorpage -m Movie -dc RazorPagesMovieApp.Data.RazorPagesMovieAppContext -udl -outDir Pages/Movies --referenceScriptLibraries --databaseProvider sqlite
+
+
+
+In the project:
+ - Added CRUD
+ - Added Seeding
+ - Entity Framework using Sqlite
+ - 
