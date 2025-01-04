@@ -12,4 +12,6 @@ In the project:
  - Added CRUD
  - Added Seeding
  - Entity Framework using Sqlite
+ - Added Search Functionality
+ - Added Dropdown Category Filter
  - 
